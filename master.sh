@@ -8,8 +8,8 @@ echo "For the IC dated (format: MMDD) "$IC" "
 
 
 ##Create dircetories as per ERPAS multi-ensembles multi-physics(/home/cccr/valsala/tanvi/PREPDATA/trm/saszc/20031207/c00).
-#./dir_trm.sh "$IC"
-#echo "Successfuly created all the directories"
+./dir_trm.sh "$IC"
+echo "Successfuly created all the directories"
 
 
 ######FOR GLOBAL OCEAN ######
